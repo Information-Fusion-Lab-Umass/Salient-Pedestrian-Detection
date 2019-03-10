@@ -6,5 +6,5 @@
 ## Abstract
 
 <p><center>
-<img src="Block_Diagram_Final_compact.png" width="400" height="400" align="center"/>
+<img src="Block_Diagram_Final_compact.png" width="600" height="600" align="center"/>
 </p></center>
