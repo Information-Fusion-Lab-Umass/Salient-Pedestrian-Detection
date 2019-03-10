@@ -29,12 +29,14 @@
 
 ## Pedestrian Detection Using Faster R-CNN
 
+### Code
+
 - [Faster R-CNN]() 
 - [PICA-Net]()
 - [R3-Net]()
 - [Deeply Supervised Salient Object Detection with Short Connections]()
 
-## Pretrained Weights for Faster R-CNN trained on the KAIST Pedestrian Dataset
+### Pretrained Weights for Faster R-CNN trained on the KAIST Pedestrian Dataset
 
 - [Thermal Images]()
 - [Static Saliency Maps generated from Thermal Images]()
