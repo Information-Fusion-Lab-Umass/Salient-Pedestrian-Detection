@@ -25,7 +25,6 @@
 ### Pre-trained Weights for State-of-the-Art Deep Saliency Detection Networks for this Dataset
 - [PICA-Net]()
 - [R3-Net]()
-- [Deeply Supervised Salient Object Detection with Short Connections]()
 
 ## Pedestrian Detection Using Faster R-CNN
 
@@ -34,7 +33,6 @@
 - [Faster R-CNN]() 
 - [PICA-Net]()
 - [R3-Net]()
-- [Deeply Supervised Salient Object Detection with Short Connections]()
 
 ### Results
 
@@ -48,4 +46,4 @@
 - [Thermal Images Fused with Static Saliency Maps]()
 - [Thermal Images Fused with Saliency Maps generated using PICA-Net]()
 - [Thermal Images Fused with Saliency Maps generated using R3-Net]()
-- [Thermal Images Fused with Saliency Maps generated using Deeply Supervised Salient Object Detection with Short Connections]()
+
