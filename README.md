@@ -3,7 +3,7 @@
 
 <center>Debasmita Ghose*, Shasvat Desai*, Sneha Bhattacharya*, Deep Chakraborty, Tauhidur Rahman, Madalina Fiterau</center>
 
-<center>*University of Massachusetts, Amherst*</center>
+<center><italics>University of Massachusetts, Amherst</italics></center>
 
 ## Abstract
 
@@ -43,12 +43,14 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 </center>
 
 ### Downloads
+
+#### Dataset
 - [Training Set]()
 - [Test Set]()
 - [Imagesetfiles]()
 - [Code]()
 
-### Pre-trained Weights for State-of-the-Art Deep Saliency Detection Networks for this Dataset
+#### Pre-trained Weights for State-of-the-Art Deep Saliency Detection Networks for this Dataset
 - [PICA-Net]()
 - [R3-Net]()
 
@@ -60,10 +62,6 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 - [PICA-Net]()
 - [R3-Net]()
 
-### Results
-
-### Sample Images
-
 
 ### Pretrained Weights for Faster R-CNN trained on the KAIST Pedestrian Dataset
 
@@ -72,5 +70,11 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 - [Thermal Images Fused with Static Saliency Maps]()
 - [Thermal Images Fused with Saliency Maps generated using PICA-Net]()
 - [Thermal Images Fused with Saliency Maps generated using R3-Net]()
+
+### Results
+
+### Sample Images
+
+
 
 *Authors Contributed Equally
