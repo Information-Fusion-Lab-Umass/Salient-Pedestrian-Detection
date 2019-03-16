@@ -1,7 +1,7 @@
 
 # Pedestrian Detection fom Thermal Images using Saliency Maps
 
-<center>Authors</center>
+<center>Debasmita Ghose*, Shasvat Desai*, Sneha Bhattacharya*, Deep Chakraborty, Tauhidur Rahman, Madalina Fiterau</center>
 
 ## Abstract
 
