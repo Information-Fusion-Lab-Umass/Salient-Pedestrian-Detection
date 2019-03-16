@@ -23,7 +23,7 @@ which is a first publicly available dataset for salient pedestrian detection.
 </center>
 
 
-## KAIST Salient Pedestrian Dataset
+## Our KAIST Salient Pedestrian Dataset
 
 ### Description
 We select 1702 images from the training set of the
