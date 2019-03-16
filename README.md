@@ -72,8 +72,15 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 - [Thermal Images Fused with Saliency Maps generated using R3-Net]()
 
 ### Results
+<center>
+<img src="result_plot.png" width="500" height="250" align="center"/>
+</center>
 
 ### Sample Images
+
+<center>
+<img src="result_images.png" width="600" height="800" align="center"/>
+</center>
 
 
 
