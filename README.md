@@ -5,7 +5,7 @@
 
 <center><italics>University of Massachusetts, Amherst</italics></center>
 
-<center> IEEE Workshop on Perception Beyond the Visible Spectrum, CVPR 2019</center>
+<center> <bold> IEEE Workshop on Perception Beyond the Visible Spectrum, CVPR 2019 </bold> </center>
 
 ## Abstract
 
