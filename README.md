@@ -1,9 +1,11 @@
 
 # Pedestrian Detection fom Thermal Images using Saliency Maps
 
-<center>Debasmita Ghose*, Shasvat Desai*, Sneha Bhattacharya*, Deep Chakraborty, Tauhidur Rahman, Madalina Fiterau</center>
+<center>Debasmita Ghose*, Shasvat Desai*, Sneha Bhattacharya*, Deep Chakraborty*, Madalina Fiterau, Tauhidur Rahman</center>
 
 <center><italics>University of Massachusetts, Amherst</italics></center>
+
+<center> IEEE Workshop on Perception Beyond the Visible Spectrum, CVPR 2019</center>
 
 ## Abstract
 
