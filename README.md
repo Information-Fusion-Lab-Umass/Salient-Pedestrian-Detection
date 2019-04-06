@@ -99,7 +99,6 @@ If you find this work or dataset useful, please consider citing:
   title     = {Pedestrian Detection in Thermal Images using Saliency Maps},
   booktitle = {{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops}},
   pages     = {},
-  publisher = {{IEEE} Computer Society},
   year      = {2019}
 }
 ```
