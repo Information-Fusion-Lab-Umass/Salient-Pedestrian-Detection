@@ -87,6 +87,8 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 ### Citation
 
 If you find this work or dataset useful, please consider citing:
+
+```
 @inproceedings{Kaist_Salient_Pedestrian_Dataset,
   author    = {Debasmita Ghose and
                Shasvat Desai and
@@ -100,6 +102,7 @@ If you find this work or dataset useful, please consider citing:
   publisher = {{IEEE} Computer Society},
   year      = {2019}
 }
+```
 
 
 *Authors Contributed Equally
