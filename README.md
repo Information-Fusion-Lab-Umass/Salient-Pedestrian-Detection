@@ -84,6 +84,22 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 <img src="result_images.png" width="600" height="700" align="center"/>
 </center>
 
+### Citation
+
+If you find this work or dataset useful, please consider citing:
+@inproceedings{Kaist_Salient_Pedestrian_Dataset,
+  author    = {Debasmita Ghose and
+               Shasvat Desai and
+               Sneha Bhattacharya and
+               Deep Chakraborty and
+               Madalina Fiterau and
+	       Tauhidur Rahman},
+  title     = {Pedestrian Detection in Thermal Images using Saliency Maps},
+  booktitle = {{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops}},
+  pages     = {},
+  publisher = {{IEEE} Computer Society},
+  year      = {2019}
+}
 
 
 *Authors Contributed Equally
