@@ -97,7 +97,7 @@ If you find this work or dataset useful, please consider citing:
                Madalina Fiterau and
 	       Tauhidur Rahman},
   title     = {Pedestrian Detection in Thermal Images using Saliency Maps},
-  booktitle = {{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops}},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
   pages     = {},
   year      = {2019}
 }
