@@ -7,7 +7,7 @@
 
 #### IEEE Workshop on Perception Beyond the Visible Spectrum, CVPR 2019 
 
-[Link](https://arxiv.org/pdf/1904.06859v1.pdf) to our paper
+[Paper](https://arxiv.org/pdf/1904.06859v1.pdf) | [Website](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/) 
 
 ## Abstract
 
