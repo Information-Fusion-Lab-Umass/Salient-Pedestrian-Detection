@@ -62,7 +62,7 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 ### Code
 
 - [Faster R-CNN](https://github.com/DebasmitaGhose/Multimodal_Influenza_Detection/tree/fppi_LAMR/faster-rcnn.pytorch) 
-- [PICA-Net]()
+- [PICA-Net](https://github.com/deepc94/PiCANet-Implementation)
 - [R3-Net]()
 
 
