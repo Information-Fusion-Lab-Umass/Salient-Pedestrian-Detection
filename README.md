@@ -7,6 +7,8 @@
 
 #### IEEE Workshop on Perception Beyond the Visible Spectrum, CVPR 2019 
 
+[Link](https://arxiv.org/pdf/1904.06859v1.pdf) to our paper
+
 ## Abstract
 
 Thermal images are mainly used to detect the presence of people at night or in bad lighting conditions, but perform
