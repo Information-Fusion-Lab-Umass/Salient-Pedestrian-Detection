@@ -63,7 +63,7 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 
 - [Faster R-CNN](https://github.com/DebasmitaGhose/Multimodal_Influenza_Detection/tree/fppi_LAMR/faster-rcnn.pytorch) 
 - [PICA-Net](https://github.com/deepc94/PiCANet-Implementation)
-- [R3-Net]()
+- [R3-Net](https://github.com/snehabhattacharya/R3Net)
 
 
 ### Pretrained Weights for Faster R-CNN trained on the KAIST Pedestrian Dataset
