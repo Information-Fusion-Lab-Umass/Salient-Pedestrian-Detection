@@ -107,3 +107,5 @@ If you find this work or dataset useful, please consider citing:
 
 
 *Authors Contributed Equally
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Finformation-fusion-lab-umass.github.io%2FSalient-Pedestrian-Detection%2F)
