@@ -55,10 +55,6 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 - [Imagesetfiles](https://drive.google.com/drive/folders/1tXrAQIIXjX8ZN2lgOqU8UtLX2gGnKNGP?usp=sharing)
 - [Code]()
 
-#### Pre-trained Weights for State-of-the-Art Deep Saliency Detection Networks for this Dataset
-- [PICA-Net]()
-- [R3-Net]()
-
 ## Pedestrian Detection Using Faster R-CNN
 
 ### Code
@@ -66,14 +62,6 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 - [Faster R-CNN](https://github.com/DebasmitaGhose/Multimodal_Influenza_Detection/tree/fppi_LAMR/faster-rcnn.pytorch) 
 - [PICA-Net](https://github.com/deepc94/PiCANet-Implementation)
 - [R3-Net](https://github.com/snehabhattacharya/R3Net)
-
-
-### Pretrained Weights for Faster R-CNN trained on the KAIST Pedestrian Dataset
-
-- [Thermal Images]()
-- [Thermal Images Fused with Static Saliency Maps]()
-- [Thermal Images Fused with Saliency Maps generated using PICA-Net]()
-- [Thermal Images Fused with Saliency Maps generated using R3-Net]()
 
 ### Results
 <center>
