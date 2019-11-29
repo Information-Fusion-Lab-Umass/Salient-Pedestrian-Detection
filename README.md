@@ -53,7 +53,6 @@ instances of pedestrians. The distribution of pedestrians per frame is shown in 
 - [Training Set](https://drive.google.com/drive/folders/12a5OxlFF3ZNcAWARumASsiRHnp0l7bRu?usp=sharing)
 - [Test Set](https://drive.google.com/drive/folders/1aC7NPlOV-IM9yDZbQ8FUwNhRMGMG54uI?usp=sharing)
 - [Imagesetfiles](https://drive.google.com/drive/folders/1tXrAQIIXjX8ZN2lgOqU8UtLX2gGnKNGP?usp=sharing)
-- [Code]()
 
 ## Pedestrian Detection Using Faster R-CNN
 
